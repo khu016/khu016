@@ -1,16 +1,19 @@
-## Hi there 👋
+## 👋 你好，我是胡轲羽
 
-<!--
-**khu016/khu016** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**一名正在参与 AI 产品项目的 AI 产品经理实习生。**
 
-Here are some ideas to get you started:
+目前在做一些 AI 产品项目，也在逐步整理自己的项目经历。  
+希望通过实际项目，更清楚地理解用户需求，以及 AI 能解决哪些问题。
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+这里会持续更新我的项目记录和学习笔记。具体案例与成果整理好后，会陆续补充。
+
+🌐 [个人链接](https://hu-keyu-ai-portfolio.khu0490.chatgpt.site/) · [GitHub](https://github.com/khu016) · ✉️ [邮箱](mailto:1692184765@qq.com)
+
+---
+
+### 🌱 目前在做
+
+参与 AI 产品项目，并整理适合公开展示的项目材料。  
+个人作品集已经上线，项目内容持续完善中。
+
+欢迎交流 AI 产品实践，也欢迎联系我了解求职相关信息。
