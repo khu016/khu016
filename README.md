@@ -1,10 +1,9 @@
-```markdown
 我是胡轲羽，一名 AI 产品经理实习生。
 
-我关注如何把模型能力转化为真正可用的产品，目前正在通过独立项目、黑客松和实习积累实践经验。  
-独立完成了 NIVI AI 主播陪练，也参与过 RAG、多模态交互和 AIGC 产品的设计与开发。
+我关注如何把模型能力转化为真正可用的产品，目前正在通过独立项目、黑客松和小组实训积累实践经验。  
+我独立完成了 NIVI AI 主播陪练，也参与过 RAG、多模态交互和 AIGC 产品的设计与开发。
 
-[🌐 个人网站](https://khu016.github.io/) · [💻 GitHub](https://github.com/khu016) · [✉️ 邮箱](mailto:1692184765@qq.com)
+[🌐 个人网站](https://hu-keyu-ai-portfolio.khu0490.chatgpt.site/) · [💻 GitHub](https://github.com/khu016) · [✉️ 邮箱](mailto:1692184765@qq.com)
 
 ---
 
@@ -52,13 +51,3 @@
 - [ChatGPT 开始放广告，那个耐心帮你做决定的人开始接广告了](https://mp.weixin.qq.com/s/31GXKwdsmjK5CYflCfa5EA)
 
 ---
-
-## 关于
-
-- AI 产品经理实习生
-- 独立完成 NIVI AI 主播陪练
-- 知乎黑客松项目负责人
-- 具备 RAG 与 AIGC 产品实践经验
-- 持续使用 AI Coding 完成产品原型
-- 正在寻找 AI 产品经理相关机会
-```
