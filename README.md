@@ -1,3 +1,14 @@
+<a href="https://khu016.github.io/">
+  <img
+    src="./assets/keiry-lab.gif"
+    alt="胡轲羽 AI 产品经理个人作品集"
+    width="100%"
+  />
+</a>
+
+<p align="center">
+  点击上方动态面板，进入胡轲羽的 AI 产品作品集
+</p>
 我是胡轲羽，一名 AI 产品经理实习生。
 
 我关注如何把模型能力转化为真正可用的产品，目前正在通过独立项目、黑客松和小组实训积累实践经验。  
