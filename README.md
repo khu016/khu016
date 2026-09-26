@@ -1,6 +1,6 @@
 <a href="https://khu016.github.io/">
   <img
-    src="./assets/keiry-lab.gif"
+    src="./assets/hukeyu-signal-board-embedded.svg"
     alt="胡轲羽 AI 产品经理个人作品集"
     width="100%"
   />
