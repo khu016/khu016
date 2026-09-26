@@ -7,7 +7,7 @@
 
 这里会持续更新我的项目记录和学习笔记。具体案例与成果整理好后，会陆续补充。
 
-🌐 [个人链接](https://hu-keyu-ai-portfolio.khu0490.chatgpt.site/) · [GitHub](https://github.com/khu016) · ✉️ [邮箱](mailto:1692184765@qq.com)
+🌐 [个人链接](https://khu016.github.io/) · [GitHub](https://github.com/khu016) · ✉️ [邮箱](mailto:1692184765@qq.com)
 
 ---
 
