@@ -22,14 +22,14 @@
 
 从真实场景出发，把产品想法做成可以体验的 MVP。
 
-### 🎙️ [NIVI AI 主播陪练](https://github.com/khu016/ai-live-coach-workspace)
+### 🎙️ [NIVI](https://github.com/khu016/ai-live-coach-workspace)
 
 面向新人主播的 AI 陪练产品。  
 通过实时语音转写和动态 AI 弹幕模拟直播互动，并在训练结束后生成分段反馈。
 
 我独立负责需求分析、MVP 设计、PRD 迭代、产品开发与测试，目前已完成网页端版本。
 
-### 🐻 [刘看山督学官](https://github.com/20050202ys-sketch/kanshan-supervisor)
+### 🐻 [看山知行](https://github.com/20050202ys-sketch/kanshan-supervisor)
 
 面向大学生和职场新人的多课程 AI 学习平台。  
 核心体验包括知识学习、用户复述、AI 评估和刘看山本地专注陪学。
@@ -43,9 +43,9 @@
 
 我负责数据导入、文档分块和索引，同时整理川崎车型的拉花贴画、贴膜风格与车身区域参考素材。
 
-### 🎮 [AI 模拟器游戏平台](https://github.com/khu016/ai-simulator-platform) `开发中`
+### 🎮 [IfPlay](https://github.com/khu016/ai-simulator-platform) `开发中`
 
-面向非程序用户的 AI 模拟器游戏生成与分发平台。  
+面向非程序用户的 AI 游戏生成平台。  
 用户可以通过自然语言描述游戏想法，并完成试玩、修改和发布。
 
 目前已完成产品定位、MVP 范围与完整 PRD，项目正在进入架构设计阶段。
